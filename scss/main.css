@@ -36,7 +36,7 @@
   box-shadow: 3px 3px 16px rgba(0, 0, 0, 0.25);
 }
 * .about-us-preview .about-content {
-  width: 300px;
+  width: 320px;
   display: grid;
   gap: 1rem;
 }
@@ -79,7 +79,7 @@
   left: 2rem;
 }
 * .special-menu .card-container .card .rating i {
-  color: #D29520;
+  color: #f8d50e;
 }
 * .special-menu .card-container .card .menu-title {
   margin-top: 15px;
