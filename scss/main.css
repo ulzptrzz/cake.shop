@@ -87,12 +87,12 @@
   justify-content: space-between;
   align-items: center;
 }
-* .special-menu .card-container .card .description-product {
+* .special-menu .card-container .card .description-menu {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-* .special-menu .card-container .card .description-product i {
+* .special-menu .card-container .card .description-menu i {
   background-color: #ff902a;
   padding: 10px 13px;
   border-radius: 100%;
