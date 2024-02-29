@@ -60,11 +60,11 @@
             margin-top: 50px;
             display: grid;
             grid-template-columns: repeat(3, 1fr);
-            gap: 50px;
+            gap: 40px;
         
             .card{
                 border-radius: 20px;
-                padding: 20px;
+                padding: 25px;
                 box-shadow: 3px 3px 10px rgb(0 0 0 / 25%);
                 position: relative;
             
@@ -82,6 +82,7 @@
                     padding: .3rem .8rem;
                     top: 2rem;
                     left: 2rem;
+                    font-weight: bold;
 
                     i{
                         color:  #f8d50e;
